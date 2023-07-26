@@ -48,13 +48,13 @@ let config = {
   },
   titles: [
     "Hello there!",
-    "Kenalin namaku Pras",
-    "Aku seorang Programmer",
-    "Lulusan S-1 Informatika",
-    "Dengan IPK 3.7  \u{1F60E}",
+    "My name is Pras",
+    "I'm a DevOps Engineer",
+    "Informatics graduate students",
+    "With a 3.72 GPA \u{1F60E}",
     {
       title: "✨ Klik teks ini untuk melihat Portfolioku ✨",
-      link: "https://portfolio.leftprazz.my.id",
+      link: "https://portfolio.leftprazz.com",
     },
     "Enjoy the game :)",
   ],
